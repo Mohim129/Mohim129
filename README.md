@@ -29,7 +29,7 @@
 
 #### 🚀 Other Tools & Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,linux,git,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,linux,git" />
 </p>
 
 ---
