@@ -8,7 +8,7 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **KeenKeeper** (Friendship Analytics Dashboard)
+- 🔭 I’m currently working on **Tiles Gallery** (A title ecom site)
 - 🌱 I’m currently learning **Advanced Software Engineering Principles**
 - ⚡ Fun fact: I love building tools that solve real-world social connection problems.
 - 📫 How to reach me: **md.mohim15@gmail.com**
@@ -17,11 +17,20 @@
 
 ### 🛠 Languages and Tools
 
-| Category | Icons |
-| :--- | :--- |
-| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> |
-| **Backend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="30" height="30"/> |
-| **Others** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> |
+#### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+</p>
+
+#### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+</p>
+
+#### 🚀 Other Tools & Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,linux,git,postman" />
+</p>
 
 ---
 
