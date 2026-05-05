@@ -10,7 +10,7 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Tiles Gallery** (An e-commerce platform for tiles)
+- 🔭 I’m currently working on **Tiles Gallery** (A tile e-commerce site)
 - 🌱 I’m currently learning **Advanced Software Engineering Principles**
 - ⚡ Fun fact: I love building tools that solve real-world social connection problems.
 - 📫 How to reach me: **md.mohim15@gmail.com**
@@ -38,8 +38,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohim129&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohim129&layout=compact&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohim129&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohim129&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
