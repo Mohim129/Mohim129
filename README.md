@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mohim+Uddin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohim+Uddin" alt="Typing SVG" />
 </p>
 <h3 align="center">MERN Stack Developer | Aspiring Software Engineer</h3>
 
@@ -10,7 +10,7 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Tiles Gallery** (A tile ecom site)
+- 🔭 I’m currently working on **Tiles Gallery** (An e-commerce platform for tiles)
 - 🌱 I’m currently learning **Advanced Software Engineering Principles**
 - ⚡ Fun fact: I love building tools that solve real-world social connection problems.
 - 📫 How to reach me: **md.mohim15@gmail.com**
