@@ -43,7 +43,8 @@ I am a passionate Junior Frontend Developer based in Chittagong, Bangladesh, spe
 
 #### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" alt="Backend Skills" align="center" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="48" height="48" align="center" />
 </p>
 
 #### 🚀 Other Tools & Languages
@@ -55,8 +56,8 @@ I am a passionate Junior Frontend Developer based in Chittagong, Bangladesh, spe
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohim129&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Mohim's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohim129&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohim129&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="Mohim's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohim129&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
 </p>
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohim129&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
