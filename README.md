@@ -56,8 +56,8 @@ I am a passionate Junior Frontend Developer based in Chittagong, Bangladesh, spe
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mohim129&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohim's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mohim129&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohim129&theme=tokyonight" alt="Mohim's GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohim129&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohim129&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
