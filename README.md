@@ -23,10 +23,13 @@
 ---
 
 ### 💫 About Me
+I am a passionate Junior Frontend Developer based in Chittagong, Bangladesh, specializing in building dynamic and responsive user interfaces. I am currently transitioning deeper into the MERN stack and aspiring to become a full-fledged Software Engineer. I love building tools that solve real-world social connection problems and am always eager to learn new technologies.
+
 - 🔭 I’m currently working on **Tiles Gallery** (An e-commerce platform for tiles)
 - 🌱 I’m currently learning **Advanced Software Engineering Principles**
 - ⚡ Fun fact: I love building tools that solve real-world social connection problems.
-- 📫 How to reach me: **md.mohim15@gmail.com**
+- 📫 How to reach me: **md.mohim15@gmail.com** | **+8801570233373**
+- 📍 Location: **Chittagong, Bangladesh**
 - 🌐 Portfolio: **https://mohim-portfolio-three.vercel.app/**
 
 ---
@@ -35,25 +38,28 @@
 
 #### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" alt="Frontend Skills" />
 </p>
 
 #### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,mysql,postgres,firebase" alt="Backend Skills" />
 </p>
 
 #### 🚀 Other Tools & Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,linux,git" alt="Tools and Languages" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-<br/>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohim129&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohim129&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohim's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohim129&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohim129&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
